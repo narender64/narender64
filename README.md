@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @narender64
 - 👀 I’m interested in firmware, building new electronic prouducts using latest h/w and firmware.
-- 🌱 I’m currently learning esp32 jtag debugging
-- 💞️ I’m looking to collaborate on any project which needs sound understanding of h/w and f/w, after few months( as I am busy with my own products now)
+- - 💞️ I’m looking to collaborate on any project which needs sound understanding of h/w and f/w, after few months( as I am busy with my own products now)
 - 📫 How to reach me email: narender.saineni@gmail.com, whatsapp: +918639764813
 
 <!---
